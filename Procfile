@@ -1,0 +1,1 @@
+web: java -jar target/jr_http_server-1.0-SNAPSHOT.jar
